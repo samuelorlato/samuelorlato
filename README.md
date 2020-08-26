@@ -1,4 +1,4 @@
-# Samuel Trevisan Orlato
+# Hi! :wave: My name is Samuel Trevisan Orlato! :computer:
 
 ## Welcome to my profile! 
 
