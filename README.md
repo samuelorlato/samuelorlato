@@ -1,4 +1,4 @@
-# Hi! :wave: My name is Samuel Trevisan Orlato! :computer: {align=center}
+# Hi! :wave: My name is Samuel Trevisan Orlato! :computer:
 
 ## Welcome to my profile! 
 
