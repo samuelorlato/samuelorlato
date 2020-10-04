@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
+<h1 align="center">Hi 👋, I'm Samuel Trevisan Orlato</h1>
 <h3 align="center">I'm intend to be a Full-Stack developer</h3>
 
 - 👨‍💻 My projects are available at [https://orlatodev.github.io/MyPortfolio/public/](https://orlatodev.github.io/MyPortfolio/public/)
