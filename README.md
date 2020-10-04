@@ -5,6 +5,8 @@
 
 - 📫 How to reach me: **samuelorlato@gmail.com**
 
+<h4>Some curiosities:</h4>
+
 - 🇧🇷 I'm brazilian;
 
 - 🌇 I live in "Jundiaí - São Paulo";
