@@ -5,6 +5,14 @@
 
 - 📫 How to reach me: **samuelorlato@gmail.com**
 
+- 🇧🇷 I'm brazilian;
+
+- 🌇 I live in "Jundiaí - São Paulo";
+
+- 🙋‍♂️ I'm 13;
+
+- 🏫 I'm currently studying in [Colégio Divino Salvador](https://www.divinojundiai.com.br/) and in my programming school [Ctrl+Play](https://www.ctrlplay.com.br/)!
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://stackoverflow.com/users/192703" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="192703" height="30" width="40" /></a>
