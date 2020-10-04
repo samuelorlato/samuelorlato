@@ -19,7 +19,7 @@
 
 &nbsp;
 
-<h3 align="left">Informations</h3>
+<h3 align="left">Informations:</h3>
 
 - 👨‍💻 My projects are available at [https://orlatodev.github.io/MyPortfolio/public/](https://orlatodev.github.io/MyPortfolio/public/)
 
