@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **samuelorlato@gmail.com**
 
-<h4>Some curiosities:</h4>
+<h3 align="left">Some curiosities:</h4>
 
 - 🇧🇷 I'm brazilian;
 
