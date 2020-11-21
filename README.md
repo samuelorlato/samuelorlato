@@ -43,4 +43,4 @@
 
 
 &nbsp;
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orlatodev&show_icons=true&theme=tokionight" alt="orlatodev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orlatodev&theme=dark&show_icons=true" alt="orlatodev" /></p>
