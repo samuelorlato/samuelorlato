@@ -39,6 +39,7 @@
 <a href="https://pt.stackoverflow.com/users/192703/samuel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="192703" height="30" width="40" /></a>
 <a href="https://github.com/OrlatoDev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" height="30" width="40" /></a>
 <a href="mailto:samuelorlato@gmail.com" target="blank"><img align="center" alt="Gmail" width="30" height="40" src="https://img.icons8.com/color/2x/gmail-login.png" /></a>
+<a href="https://dev.to/orlatodev" target="blank">DEV</a>
 </p>
 
 
