@@ -31,12 +31,14 @@
 </a>
 <br>
 <h3 align="center">💻 Operational Systems 📱</h3>
-<a href="#" align="center">
+<p align="center">
+<a href="#">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu 20.04" style="vertical-align:top margin6px 4px">
 </a>
-<a href="#" align="center">
+<a href="#">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 10" style="vertical-align:top margin6px 4px">
 </a>
+</p>
 </p>
 
 &nbsp;
