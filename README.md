@@ -41,7 +41,7 @@
 <a href="https://dev.to/orlatodev" target="blank">DEV</a>
 </p>
 
-<details align="center">
+<details align="left">
   <summary>Some curiosities</summary>
   
   - 🇧🇷 I'm brazilian;
@@ -52,5 +52,5 @@
 
   - 🏫 I'm currently studying in [Colégio Divino Salvador](https://www.divinojundiai.com.br/) and in my programming school [Ctrl+Play](https://www.ctrlplay.com.br/)!
   
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=orlatodev&theme=dark&show_icons=true" alt="orlatodev" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=orlatodev&theme=dark&show_icons=true" alt="orlatodev" /></p>
 </details>
