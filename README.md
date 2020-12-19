@@ -29,11 +29,13 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" style="vertical-align:top margin:6px 4px">
 </a>
-<a href="#">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top margin:6px 4px">
-</a>
+<br>
+<h3>OS:</h3>
 <a href="#">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu 20.04" style="vertical-align:top margin6px 4px">
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 10" style="vertical-align:top margin6px 4px">
 </a>
 </p>
 
@@ -43,13 +45,13 @@
   <summary>Contact with me</summary>
   
   <a href="mailto:samuelorlato@gmail.com">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="Gmail" style="vertical-align:top margin:6px 4px">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="https://api.whatsapp.com/send?phone=5511995193766">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/whatsapp.svg" alt="Whatsapp" style="vertical-align:top margin:6px 4px">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="https://pt.stackoverflow.com/users/192703/samuel">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg" alt="VS Code" style="vertical-align:top margin:6px 4px">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow" style="vertical-align:top margin:6px 4px">
   </a>
 </details>
 
