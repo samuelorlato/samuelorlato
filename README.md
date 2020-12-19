@@ -26,6 +26,7 @@
 
 <details align="left">
   <summary>Some curiosities</summary>
+  
   - 🇧🇷 I'm brazilian;
 
   - 🌇 I live in "Jundiaí - São Paulo";
