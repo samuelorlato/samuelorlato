@@ -18,14 +18,9 @@
 
 &nbsp;
 
-<h3 align="left">Informations: 📄</h3>
-
-- 👨‍💻 My projects are available at [https://orlatodev.github.io/MyPortfolio/public/](https://orlatodev.github.io/MyPortfolio/public/)
-
-- 📫 How to reach me: **samuelorlato@gmail.com**
 
 <details align="left">
-  Some curiosities:
+  <summary>Some curiosities</summary>
   - 🇧🇷 I'm brazilian;
 
   - 🌇 I live in "Jundiaí - São Paulo";
