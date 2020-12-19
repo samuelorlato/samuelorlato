@@ -14,10 +14,15 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
 
-
-
 &nbsp;
 
+<p align="left">
+<h3 align="left">Connect with me: 💬</h3>
+<a href="https://pt.stackoverflow.com/users/192703/samuel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="192703" height="30" width="40" /></a>
+<a href="https://github.com/OrlatoDev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" height="30" width="40" /></a>
+<a href="mailto:samuelorlato@gmail.com" target="blank"><img align="center" alt="Gmail" width="30" height="40" src="https://img.icons8.com/color/2x/gmail-login.png" /></a>
+<a href="https://dev.to/orlatodev" target="blank">DEV</a>
+</p>
 
 <details align="left">
   <summary>Some curiosities</summary>
@@ -29,15 +34,6 @@
 
   - 🏫 I'm currently studying in [Colégio Divino Salvador](https://www.divinojundiai.com.br/) and in my programming school [Ctrl+Play](https://www.ctrlplay.com.br/)!
 </details>
-
-<p align="left">
-<h3 align="left">Connect with me: 💬</h3>
-<a href="https://pt.stackoverflow.com/users/192703/samuel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="192703" height="30" width="40" /></a>
-<a href="https://github.com/OrlatoDev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/github/github-original.svg" height="30" width="40" /></a>
-<a href="mailto:samuelorlato@gmail.com" target="blank"><img align="center" alt="Gmail" width="30" height="40" src="https://img.icons8.com/color/2x/gmail-login.png" /></a>
-<a href="https://dev.to/orlatodev" target="blank">DEV</a>
-</p>
-
 
 &nbsp;
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orlatodev&theme=dark&show_icons=true" alt="orlatodev" /></p>
