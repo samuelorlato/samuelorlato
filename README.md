@@ -27,6 +27,9 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="#">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" style="vertical-align:top margin:6px 4px">
+</a>
+<a href="#">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="VS Code" style="vertical-align:top margin:6px 4px">
 </a>
 <a href="#">
