@@ -42,6 +42,9 @@
   <a href="https://api.whatsapp.com/send?phone=5511995193766">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/whatsapp.svg" alt="Whatsapp" style="vertical-align:top margin:6px 4px">
   </a>
+  <a href="https://pt.stackoverflow.com/users/192703/samuel">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/stackoverflow.svg" alt="VS Code" style="vertical-align:top margin:6px 4px">
+  </a>
 </details>
 
 <details align="left">
