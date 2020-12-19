@@ -24,15 +24,16 @@
 
 - 📫 How to reach me: **samuelorlato@gmail.com**
 
-<h3 align="left">Some curiosities: 😃</h3>
+<details align="left">
+  Some curiosities:
+  - 🇧🇷 I'm brazilian;
 
-- 🇧🇷 I'm brazilian;
+  - 🌇 I live in "Jundiaí - São Paulo";
 
-- 🌇 I live in "Jundiaí - São Paulo";
+  - 🙋‍♂️ I'm 13;
 
-- 🙋‍♂️ I'm 13;
-
-- 🏫 I'm currently studying in [Colégio Divino Salvador](https://www.divinojundiai.com.br/) and in my programming school [Ctrl+Play](https://www.ctrlplay.com.br/)!
+  - 🏫 I'm currently studying in [Colégio Divino Salvador](https://www.divinojundiai.com.br/) and in my programming school [Ctrl+Play](https://www.ctrlplay.com.br/)!
+</details>
 
 <p align="left">
 <h3 align="left">Connect with me: 💬</h3>
