@@ -30,11 +30,11 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" style="vertical-align:top margin:6px 4px">
 </a>
 <br>
-<h3>OS:</h3>
-<a href="#">
+<h3 align="center">💻 Operational Systems 📱</h3>
+<a href="#" align="center">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu 20.04" style="vertical-align:top margin6px 4px">
 </a>
-<a href="#">
+<a href="#" align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 10" style="vertical-align:top margin6px 4px">
 </a>
 </p>
