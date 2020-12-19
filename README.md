@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samuel Trevisan Orlato</h1>
+<h1 align="center">I'm Samuel Trevisan Orlato <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <h3 align="center">🔥 I'm intend to be a Full-Stack developer 🔥</h3>
 
-<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="center">
 <a href="#">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML5" style="vertical-align:top margin:6px 4px">
