@@ -52,6 +52,9 @@
   <a href="https://pt.stackoverflow.com/users/192703/samuel">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow" style="vertical-align:top margin:6px 4px">
   </a>
+  <a href="https://www.youtube.com/channel/UCTU5-NCtr7mF0tpqjXpmWHw">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" style="vertical-align:top margin:6px 4px" 
+  </a>
 </details>
 
 <details align="left">
