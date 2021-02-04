@@ -36,18 +36,10 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 10" style="vertical-align:top margin6px 4px">
 </a>
 </p>
-</p>
-
-&nbsp;
-
-<details align="left">
-  <summary>Contact with me</summary>
-  
+<h3 align="center">Contact</h3>
+<p align="center">
   <a href="mailto:samuelorlato@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:top margin:6px 4px">
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5511995193766">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="https://pt.stackoverflow.com/users/192703/samuel">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow" style="vertical-align:top margin:6px 4px">
@@ -55,7 +47,10 @@
   <a href="https://www.youtube.com/channel/UCTU5-NCtr7mF0tpqjXpmWHw">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" style="vertical-align:top margin:6px 4px" 
   </a>
-</details>
+</p>
+</p>
+
+&nbsp;
 
 <details align="left">
   <summary>Some curiosities</summary>
