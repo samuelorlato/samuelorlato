@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 10" style="vertical-align:top margin6px 4px">
 </a>
 </p>
-<h3 align="center">Contact</h3>
+<h3 align="center">🌐 Contact 🌐</h3>
 <p align="center">
   <a href="mailto:samuelorlato@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:top margin:6px 4px">
@@ -49,19 +49,3 @@
   </a>
 </p>
 </p>
-
-&nbsp;
-
-<details align="left">
-  <summary>Some curiosities</summary>
-  
-  - 🇧🇷 I'm brazilian;
-
-  - 🌇 I live in "Jundiaí - São Paulo";
-
-  - 🙋‍♂️ I'm 13;
-
-  - 🏫 I'm currently studying in [Colégio Divino Salvador](https://www.divinojundiai.com.br/) and in my programming school [Ctrl+Play](https://www.ctrlplay.com.br/)!
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=orlatodev&theme=dark&show_icons=true" alt="orlatodev" /></p>
-</details>
