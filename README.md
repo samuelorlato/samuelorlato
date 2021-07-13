@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/62776404/102681394-beb3ec00-419f-11eb-9ae2-c5b802415403.png">
 <h3 align="center">🔥<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm intend to be a Full-Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🔥</h3>
 
 <p align="center">
