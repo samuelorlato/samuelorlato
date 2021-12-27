@@ -8,8 +8,8 @@ I'm Samuel Orlato, a 14 years old developer.
 * 🕶️ I love customization.
 
 <p align="left">
-  <a href="mailto:samuelorlato@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="vertical-align:top margin:6px 4px">
+  <a href="mailto:s.orlato@pm.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="https://www.youtube.com/channel/UCTU5-NCtr7mF0tpqjXpmWHw">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" style="vertical-align:top margin:6px 4px"> 
