@@ -1,6 +1,6 @@
 # 💫 About Me :
 - 😃 I'm 15
-- 📖 I'm currently learning C
+- 📖 I'm currently learning TypeScript
 - 🕶️ I love customization
 
 ## 🌐 Socials
