@@ -11,8 +11,35 @@
 </p>
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 15/05/2026 20:03:16 UTC
+```text
+🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+🌆 Daytime                230 commits         ███████████░░░░░░░░░░░░░░   43.64 % 
+🌃 Evening                205 commits         ██████████░░░░░░░░░░░░░░░   38.90 % 
+🌙 Night                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Tuesday                  105 commits         █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Wednesday                71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Thursday                 62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Friday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Saturday                 78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Sunday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+```
+
+
+ Last Updated on 16/05/2026 19:40:54 UTC
 <!--END_SECTION:waka-->
 
 ---
